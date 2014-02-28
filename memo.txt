@@ -1,3 +1,5 @@
 Githbub for Macのテスト使用
 
 使い勝手はどうでしょうか。
+
+GithubのSSLエラーはなんとかしてほしい。
